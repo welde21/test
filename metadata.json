@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker & Journaling Insights",
+  "description": "A personal growth platform to log daily habits, build streaks, maintain a reflective journal, and receive AI-powered progress summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
